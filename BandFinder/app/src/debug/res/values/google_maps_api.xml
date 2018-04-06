@@ -1,0 +1,25 @@
+<resources>
+    <!--
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=63:A3:0F:8C:8D:35:4A:44:B0:C5:57:D0:96:93:FD:FC:D7:CC:3C:71%3Bcom.example.rishi.bandfinder
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    63:A3:0F:8C:8D:35:4A:44:B0:C5:57:D0:96:93:FD:FC:D7:CC:3C:71
+
+    SHA-1 certificate fingerprint:
+    63:A3:0F:8C:8D:35:4A:44:B0:C5:57:D0:96:93:FD:FC:D7:CC:3C:71
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCPmoSThch4MCvwU1ME7LLawsJy4OXHpGQ
+    </string>
+</resources>
